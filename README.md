@@ -1,5 +1,4 @@
 # GroupPolicy
-
 Configured Group Policy using a Windows Server 2025 VM on VMware to enforce password requirements, map network drives, restrict access to Control Panel, and configure account lockout settings.
 
 <img width="1065" height="569" alt="image" src="https://github.com/user-attachments/assets/ae8b9298-6a84-4745-bff8-7f1d2728ec2c" />
